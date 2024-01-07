@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model_62133508.dll.config
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model_62133508.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model_62133508.pdb
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model_62133508.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model_62133508.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model_62133508.csproj.CopyComplete
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model_62133508.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model_62133508.pdb

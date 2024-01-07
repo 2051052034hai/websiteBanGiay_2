@@ -1,0 +1,30 @@
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+E:\Dropbox\Nam 4\Do an tot nghiep\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll.config
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\Model.pdb
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.dll
+C:\Users\DELL\Desktop\DoAnTotNghiepBanGiay\Model\obj\Debug\Model.pdb
